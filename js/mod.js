@@ -2,7 +2,7 @@ let modInfo = {
 	name: "faucet",
 	id: "faucet",
 	author: "boxy, toad, emily",
-	pointsName: "mLs of unrefined water",
+	pointsName: "mLs of unpurified water",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -77,3 +77,5 @@ function maxTickLength() {
 // you can cap their current resources with this.
 function fixOldSave(oldVersion){
 }
+
+
